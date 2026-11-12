@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://flowmetrics-api-18e5.onrender.com/:path*"
+    }
+  ]
+}
